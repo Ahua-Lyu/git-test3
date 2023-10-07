@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("Starting5 hot-fix second");
         System.out.println("Starting4 master");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
