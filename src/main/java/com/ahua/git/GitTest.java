@@ -9,5 +9,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Starting");
         System.out.println("Starting2");
+        System.out.println("Starting3");
     }
 }
