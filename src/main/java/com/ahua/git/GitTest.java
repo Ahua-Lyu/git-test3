@@ -8,5 +8,6 @@ package com.ahua.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("Starting");
+        System.out.println("Starting2");
     }
 }
