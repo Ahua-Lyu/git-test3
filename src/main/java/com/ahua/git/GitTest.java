@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Starting");
         System.out.println("Starting2");
         System.out.println("Starting3");
+        System.out.println("Starting4 hot-fix");
     }
 }
